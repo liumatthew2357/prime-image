@@ -4,6 +4,8 @@ ImagePrime is a Python project that transforms an image into a numerical represe
 
 The project combines image processing, arbitrary-precision arithmetic, and computational number theory to explore the relationship between visual data and prime numbers.
 
+NOTE: WORK IN PROGRESS
+
 ## Features
 
 - **Image Processing:** Loads, resizes, and processes images using Pillow.
